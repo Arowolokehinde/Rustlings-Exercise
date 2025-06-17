@@ -1,4 +1,8 @@
+
 fn main() {
-    // DON'T EDIT THIS SOLUTION FILE!
-    // It will be automatically filled after you finish the exercise.
+    call_me(); // Don't change this line
+}
+
+fn call_me() {
+    println!("Call me Professor Kay");
 }
